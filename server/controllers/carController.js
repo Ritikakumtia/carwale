@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const { default: slugify } = require("slugify")
 const carModel = require("../models/carModel")
 const orderModel = require("../models/orderModel")
