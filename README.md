@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Carwale: Full-Stack Car Buying Web App
 
 **Carwale** is a comprehensive car buying platform built using the MERN stack, comprising **Node.js**, **React.js**, **MongoDB**, and **Express.js**. The application is designed to provide **users** with an effortless and **enjoyable experience** while browsing and purchasing cars from a vast collection of vehicles.
@@ -35,4 +36,24 @@
 
 ![image](https://github.com/user-attachments/assets/f0a36f8e-c165-4d3e-a48f-616b30454d2b)
 
-## **Please Give it a ⭐ Star if you like it...**
+## **Please Give it a ⭐ Star if you like it...*
+# Carwale Fullstack Project
+
+A MERN stack-based web application to showcase car listings, allowing users to explore, view details, and make secure bookings.
+
+## 🔧 Tech Stack
+- **Frontend**: React, HTML, CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB + Mongoose
+- **Payments**: Braintree Integration
+- **Authentication**: JWT-based Auth
+
+## 🚀 How to Run
+
+### 1. Backend
+```bash
+cd server
+npm install
+npm start
+# carwale
+
