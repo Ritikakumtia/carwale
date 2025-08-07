@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Toyota Camry",
+    "slug": "toyota-camry",
+    "description": "The Toyota Camry is a mid-size sedan known for its reliability, fuel efficiency, and comfortable interior. Perfect for families and daily commuting.",
+    "price": "25000",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "engineSize": "2.5L",
+    "mileage": "32 mpg",
+    "safetyrating": "5 Star",
+    "warranty": "3 years",
+    "seater": "5",
+    "size": "Mid-size",
+    "fuelTank": "60L",
+    "brand": "toyota",
+    "productPictures": [
+      "https://drive.google.com/uc?id=1example_camry_1",
+      "https://drive.google.com/uc?id=1example_camry_2",
+      "https://drive.google.com/uc?id=1example_camry_3"
+    ],
+    "shipping": true
+  },
+  {
+    "name": "Honda Civic",
+    "slug": "honda-civic",
+    "description": "The Honda Civic is a compact car that offers excellent fuel economy, a spacious interior, and advanced safety features.",
+    "price": "22000",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "engineSize": "2.0L",
+    "mileage": "35 mpg",
+    "safetyrating": "5 Star",
+    "warranty": "3 years",
+    "seater": "5",
+    "size": "Compact",
+    "fuelTank": "50L",
+    "brand": "honda",
+    "productPictures": [
+      "https://drive.google.com/uc?id=1example_civic_1",
+      "https://drive.google.com/uc?id=1example_civic_2",
+      "https://drive.google.com/uc?id=1example_civic_3"
+    ],
+    "shipping": true
+  },
+  {
+    "name": "BMW 3 Series",
+    "slug": "bmw-3-series",
+    "description": "The BMW 3 Series combines luxury, performance, and advanced technology in a premium compact executive sedan.",
+    "price": "42000",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "engineSize": "2.0L Turbo",
+    "mileage": "28 mpg",
+    "safetyrating": "5 Star",
+    "warranty": "4 years",
+    "seater": "5",
+    "size": "Compact Executive",
+    "fuelTank": "59L",
+    "brand": "bmw",
+    "productPictures": [
+      "https://drive.google.com/uc?id=1example_bmw3_1",
+      "https://drive.google.com/uc?id=1example_bmw3_2",
+      "https://drive.google.com/uc?id=1example_bmw3_3"
+    ],
+    "shipping": true
+  },
+  {
+    "name": "Mercedes-Benz C-Class",
+    "slug": "mercedes-benz-c-class",
+    "description": "The Mercedes-Benz C-Class offers luxury, comfort, and cutting-edge technology in an elegant sedan package.",
+    "price": "45000",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "engineSize": "2.0L Turbo",
+    "mileage": "26 mpg",
+    "safetyrating": "5 Star",
+    "warranty": "4 years",
+    "seater": "5",
+    "size": "Luxury Compact",
+    "fuelTank": "66L",
+    "brand": "mercedes-benz",
+    "productPictures": [
+      "https://drive.google.com/uc?id=1example_cclass_1",
+      "https://drive.google.com/uc?id=1example_cclass_2",
+      "https://drive.google.com/uc?id=1example_cclass_3"
+    ],
+    "shipping": true
+  },
+  {
+    "name": "Audi A4",
+    "slug": "audi-a4",
+    "description": "The Audi A4 delivers sophisticated design, advanced technology, and exceptional performance in the luxury sedan segment.",
+    "price": "40000",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "engineSize": "2.0L TFSI",
+    "mileage": "29 mpg",
+    "safetyrating": "5 Star",
+    "warranty": "4 years",
+    "seater": "5",
+    "size": "Luxury Compact",
+    "fuelTank": "58L",
+    "brand": "audi",
+    "productPictures": [
+      "https://drive.google.com/uc?id=1example_a4_1",
+      "https://drive.google.com/uc?id=1example_a4_2",
+      "https://drive.google.com/uc?id=1example_a4_3"
+    ],
+    "shipping": true
+  },
+  {
+    "name": "Hyundai Elantra",
+    "slug": "hyundai-elantra",
+    "description": "The Hyundai Elantra offers great value with modern features, fuel efficiency, and a comprehensive warranty.",
+    "price": "20000",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "engineSize": "2.0L",
+    "mileage": "33 mpg",
+    "safetyrating": "5 Star",
+    "warranty": "10 years",
+    "seater": "5",
+    "size": "Compact",
+    "fuelTank": "50L",
+    "brand": "hyundai",
+    "productPictures": [
+      "https://drive.google.com/uc?id=1example_elantra_1",
+      "https://drive.google.com/uc?id=1example_elantra_2",
+      "https://drive.google.com/uc?id=1example_elantra_3"
+    ],
+    "shipping": true
+  },
+  {
+    "name": "Ford Mustang",
+    "slug": "ford-mustang",
+    "description": "The Ford Mustang is an iconic American muscle car that combines powerful performance with classic styling.",
+    "price": "35000",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "engineSize": "5.0L V8",
+    "mileage": "21 mpg",
+    "safetyrating": "4 Star",
+    "warranty": "3 years",
+    "seater": "4",
+    "size": "Sports Coupe",
+    "fuelTank": "61L",
+    "brand": "ford",
+    "productPictures": [
+      "https://drive.google.com/uc?id=1example_mustang_1",
+      "https://drive.google.com/uc?id=1example_mustang_2",
+      "https://drive.google.com/uc?id=1example_mustang_3"
+    ],
+    "shipping": true
+  },
+  {
+    "name": "Chevrolet Malibu",
+    "slug": "chevrolet-malibu",
+    "description": "The Chevrolet Malibu is a mid-size sedan that offers comfort, technology, and fuel efficiency for everyday driving.",
+    "price": "24000",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "engineSize": "1.5L Turbo",
+    "mileage": "32 mpg",
+    "safetyrating": "5 Star",
+    "warranty": "3 years",
+    "seater": "5",
+    "size": "Mid-size",
+    "fuelTank": "57L",
+    "brand": "chevrolet",
+    "productPictures": [
+      "https://drive.google.com/uc?id=1example_malibu_1",
+      "https://drive.google.com/uc?id=1example_malibu_2",
+      "https://drive.google.com/uc?id=1example_malibu_3"
+    ],
+    "shipping": true
+  },
+  {
+    "name": "Nissan Altima",
+    "slug": "nissan-altima",
+    "description": "The Nissan Altima combines efficiency, technology, and comfort in a well-rounded mid-size sedan package.",
+    "price": "26000",
+    "fuelType": "Petrol",
+    "transmission": "CVT",
+    "engineSize": "2.5L",
+    "mileage": "31 mpg",
+    "safetyrating": "5 Star",
+    "warranty": "3 years",
+    "seater": "5",
+    "size": "Mid-size",
+    "fuelTank": "61L",
+    "brand": "nissan",
+    "productPictures": [
+      "https://drive.google.com/uc?id=1example_altima_1",
+      "https://drive.google.com/uc?id=1example_altima_2",
+      "https://drive.google.com/uc?id=1example_altima_3"
+    ],
+    "shipping": true
+  },
+  {
+    "name": "Volkswagen Jetta",
+    "slug": "volkswagen-jetta",
+    "description": "The Volkswagen Jetta offers German engineering, refined interior, and excellent build quality in the compact sedan segment.",
+    "price": "23000",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "engineSize": "1.4L Turbo",
+    "mileage": "34 mpg",
+    "safetyrating": "5 Star",
+    "warranty": "6 years",
+    "seater": "5",
+    "size": "Compact",
+    "fuelTank": "51L",
+    "brand": "volkswagen",
+    "productPictures": [
+      "https://drive.google.com/uc?id=1example_jetta_1",
+      "https://drive.google.com/uc?id=1example_jetta_2",
+      "https://drive.google.com/uc?id=1example_jetta_3"
+    ],
+    "shipping": true
+  }
+]

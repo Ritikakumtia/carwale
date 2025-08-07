@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Toyota",
+    "slug": "toyota",
+    "brandPictures": "https://drive.google.com/uc?id=1example_toyota_logo",
+    "description": "Japanese multinational automotive manufacturer known for reliability and innovation."
+  },
+  {
+    "name": "Honda",
+    "slug": "honda",
+    "brandPictures": "https://drive.google.com/uc?id=1example_honda_logo",
+    "description": "Japanese public multinational conglomerate manufacturer of automobiles, motorcycles, and power equipment."
+  },
+  {
+    "name": "BMW",
+    "slug": "bmw",
+    "brandPictures": "https://drive.google.com/uc?id=1example_bmw_logo",
+    "description": "German multinational company which produces luxury vehicles and motorcycles."
+  },
+  {
+    "name": "Mercedes-Benz",
+    "slug": "mercedes-benz",
+    "brandPictures": "https://drive.google.com/uc?id=1example_mercedes_logo",
+    "description": "German luxury automotive brand known for premium vehicles, buses, coaches, and trucks."
+  },
+  {
+    "name": "Audi",
+    "slug": "audi",
+    "brandPictures": "https://drive.google.com/uc?id=1example_audi_logo",
+    "description": "German automotive manufacturer of luxury vehicles headquartered in Ingolstadt, Bavaria."
+  },
+  {
+    "name": "Hyundai",
+    "slug": "hyundai",
+    "brandPictures": "https://drive.google.com/uc?id=1example_hyundai_logo",
+    "description": "South Korean multinational automotive manufacturer known for value and warranty."
+  },
+  {
+    "name": "Ford",
+    "slug": "ford",
+    "brandPictures": "https://drive.google.com/uc?id=1example_ford_logo",
+    "description": "American multinational automaker with a rich history in automotive innovation."
+  },
+  {
+    "name": "Chevrolet",
+    "slug": "chevrolet",
+    "brandPictures": "https://drive.google.com/uc?id=1example_chevrolet_logo",
+    "description": "American automobile division of General Motors known for diverse vehicle lineup."
+  },
+  {
+    "name": "Nissan",
+    "slug": "nissan",
+    "brandPictures": "https://drive.google.com/uc?id=1example_nissan_logo",
+    "description": "Japanese multinational automobile manufacturer known for innovation and performance."
+  },
+  {
+    "name": "Volkswagen",
+    "slug": "volkswagen",
+    "brandPictures": "https://drive.google.com/uc?id=1example_volkswagen_logo",
+    "description": "German automaker known for quality engineering and popular models worldwide."
+  }
+]
